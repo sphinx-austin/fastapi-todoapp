@@ -1,3 +1,9 @@
+"""
+Author: (Github: sphinx-austin)
+
+"""
+
+
 from fastapi import FastAPI, Depends, Request, Form, status
 
 from starlette.responses import RedirectResponse
